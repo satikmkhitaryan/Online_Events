@@ -1,0 +1,8 @@
+.buyTicket{
+    background-color: rgb(144, 64, 159);
+    border: 1px solid rgb(60, 28, 60);
+    border-style:double;
+    height: 50px;
+    width: 100px;
+    border-radius:1ch
+}

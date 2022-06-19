@@ -1,0 +1,39 @@
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap:10px;
+    font-family: 'Boogaloo', cursive;
+    font-family: 'Dancing Script', cursive;
+    background: linear-gradient(to left, transparent 0%, rgb(237, 200, 240) 30%, transparent 100%);
+    padding: 20px;
+   justify-content: center;
+   border:3px solid rgb(139, 92, 151)
+}
+
+.tour_item{
+    flex-shrink: 0; 
+     overflow: hidden;
+     border:2px solid purple ;
+     max-width: 60%;
+  
+}
+.ticketBuy{
+    display: flex;
+    flex-direction: column;
+    border:2px solid rgb(83, 74, 74);
+
+}
+
+.btn{
+    background-color: rgb(241, 144, 243);
+    height: 50px;
+ border-radius: 45%;
+ height: 70px;
+}
+.fav{
+    border: 1px solid rgb(84, 85, 82);
+    border-radius: 10% ;
+}
+

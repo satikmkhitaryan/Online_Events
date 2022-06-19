@@ -1,0 +1,77 @@
+/* body {
+    background: #0e101c;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+      "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+      sans-serif;
+    color: white;
+    padding: 0 20px 100px;
+  } */  sa anel logini ej gnaluc heto
+  
+.title {
+    margin-top: 80px;
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    border: 2px solid rgb(79, 98, 148);
+  }
+  
+.form {
+    display: flex;
+    flex-direction: column;
+    padding-top: 2rem;
+    padding-left: 27rem ;
+    max-width: 400px;
+    
+}
+
+
+.inputInfo {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 4px;
+    padding: 10px 15px;
+    
+    font-size: 14px;
+    border: 1px solid black;
+  }
+  
+  .label {
+    line-height: 2;
+    text-align: left;
+    display: block;
+    margin-bottom: 13px;
+    margin-top: 20px;
+    color: black;
+    font-size: 14px;
+    font-weight: 200;
+  }
+  
+  .div{
+    display: block;
+    box-sizing: border-box;
+    text-align: left;
+    width: 100%;
+    border-radius: 4px;
+    padding: 2px 2px;
+    font-size: 17px;
+    border: 1px solid white;
+    color: rgba(103, 18, 114, 0.938);
+  }
+  
+  .submit {
+    background: rgba(174, 39, 192, 0.473);
+    color: white;
+    border: none;
+    margin-top: 40px;
+    padding: 20px;
+    font-size: 16px;
+    font-weight: 100;
+    letter-spacing: 10px;
+    display: block;
+    appearance: none;
+    border-radius: 4px;
+    width: 100%;
+  }
+  

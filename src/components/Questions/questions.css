@@ -1,0 +1,21 @@
+.answerShow {
+    display: block;
+}
+
+.answerHide {
+    display: none;
+}
+
+.questions {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    border: 1px solid rgba(36, 5, 44, 0.219);
+    border-radius: 10px;
+    margin-bottom: 5px;
+    background-color: rgba(190, 37, 228, 0.219);
+}
+
+.mainDiv {
+    border: 2px solid rgba(190, 37, 228, 0.219);
+}
